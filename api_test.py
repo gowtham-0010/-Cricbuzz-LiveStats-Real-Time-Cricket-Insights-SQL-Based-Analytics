@@ -36,7 +36,7 @@ def quick_test():
     st.markdown("### 🚀 Quick API Test")
 
     headers = {
-        "X-RapidAPI-Key": "f0beadeebbmsh58a7273cdf0621bp1187dejsnc7cb81759c22",
+        "X-RapidAPI-Key": "abf7ac9a44msh48322180431133cp14f1e1jsn135bf9217cf5",
         "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
     }
 
@@ -82,7 +82,7 @@ def test_endpoint(endpoint):
     st.markdown(f"### Testing: {endpoint}")
 
     headers = {
-        "X-RapidAPI-Key": "f0beadeebbmsh58a7273cdf0621bp1187dejsnc7cb81759c22",
+        "X-RapidAPI-Key": "abf7ac9a44msh48322180431133cp14f1e1jsn135bf9217cf5",
         "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
     }
 

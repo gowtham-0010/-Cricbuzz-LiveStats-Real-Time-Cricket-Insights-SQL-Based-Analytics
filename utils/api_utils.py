@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # API Configuration
-RAPIDAPI_KEY = "538fc6096emsh215a5dce8b84e2ap1b95fbjsn1da85654f96d"
+RAPIDAPI_KEY = "abf7ac9a44msh48322180431133cp14f1e1jsn135bf9217cf5"
 RAPIDAPI_HOST = "cricbuzz-cricket.p.rapidapi.com"
 BASE_URL = "https://cricbuzz-cricket.p.rapidapi.com"
 
