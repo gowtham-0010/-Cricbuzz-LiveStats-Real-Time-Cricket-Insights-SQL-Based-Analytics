@@ -21,7 +21,7 @@ except ImportError:
 logging.basicConfig(level=logging.INFO, format='%(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-API_KEY = "d9ce22edb5msh7f4ea8ba68cf789p19cd33jsn543e73adfde7"
+API_KEY = "8f28ac76efmshbb48e07d1c830fcp1d4ea9jsn3872535caf88"
 DB_PATH = "data/cricbuzz.db"
 
 def get_db_stats():

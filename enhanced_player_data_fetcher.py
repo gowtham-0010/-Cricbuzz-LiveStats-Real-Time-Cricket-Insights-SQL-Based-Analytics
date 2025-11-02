@@ -380,6 +380,6 @@ def get_player_info(player_id: str, api_key: str = "dummy") -> Optional[Dict]:
 
 
 if __name__ == "__main__":
-    API_KEY = "d9ce22edb5msh7f4ea8ba68cf789p19cd33jsn543e73adfde7"
+    API_KEY = "8f28ac76efmshbb48e07d1c830fcp1d4ea9jsn3872535caf88"
     print("Testing Player Data Fetcher...")
     initialize_database(API_KEY)
